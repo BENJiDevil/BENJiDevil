@@ -11,4 +11,6 @@
 :bomb: Specialize in Front-End Development but also use ModxRevo as CMS  
 
 
-I believe I'm a quick learner, so I will be happy to work in new area. For more information check my [personal page.](https://benjidevil.github.io/)
+I believe I'm a quick learner, so I will be happy to work in new area. 
+
+For more information check my [:point_right: personal page.](https://benjidevil.github.io/)
