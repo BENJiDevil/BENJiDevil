@@ -8,7 +8,7 @@
 :house: Based in Russia (I'm sure it's temporary :))  
 :mortar_board: Graduated from the Tambov State Technical University. Specialty — Information systems and technologies.  
 :feelsgood: Experienced web developer with over 5 years of experience.  
-:bomb: Specialize in Front-End Development but also use ModxRevo as CMS  
+:bomb: Specialize in Front-End Development but also use ModX Revo as CMS  
 
 
 I believe I'm a quick learner, so I will be happy to work in new area. 
