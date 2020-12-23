@@ -7,10 +7,10 @@
 
 :house: Based in Russia (I'm sure it's temporary :))  
 :mortar_board: Graduated from the Tambov State Technical University. Specialty — Information systems and technologies.  
-:feelsgood: Experienced web developer with over 5 years of experience.  
+:feelsgood: Experienced web developer with over 8 years of experience.  
 :bomb: Specialize in Front-End Development but also use ModX Revo as CMS  
 
 
 I believe I'm a quick learner, so I will be happy to work in new area. 
 
-For more information check my :point_right:[personal page.](https://benjidevil.github.io/)
+For more information check my :point_right: [personal page.](https://benjidevil.github.io/)
