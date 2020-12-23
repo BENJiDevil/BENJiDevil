@@ -13,4 +13,4 @@
 
 I believe I'm a quick learner, so I will be happy to work in new area. 
 
-For more information check my [:point_right: personal page.](https://benjidevil.github.io/)
+For more information check my :point_right:[personal page.](https://benjidevil.github.io/)
